@@ -1,0 +1,1 @@
+# The full Sympatico v8 code with embedded mode selector and all logic will go here. This placeholder prevents reset errors.
